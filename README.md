@@ -99,7 +99,7 @@ The project uses file handling for permanent storage:
 ## 🚀 How to Run
 
 1. Make sure Python is installed
-2. Install matplotlib (if not installed):
+2. Install matplotlib (if its not installed):
 
    ```
    pip install matplotlib
