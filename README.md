@@ -25,7 +25,7 @@ The main goal of this project is to:
 
   * **Admin**
   * **User**
-* User data is stored in `users.txt`
+* the User data is stored in `users.txt`
 
 ---
 
