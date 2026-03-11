@@ -1,4 +1,4 @@
-# 📚 Library Management System (Python)
+# 📚 Library Management System
 
 This project is a **command-line based Library Management System** developed in Python.
 It helps manage books, users, and issued records in a simple and organized way using files.
